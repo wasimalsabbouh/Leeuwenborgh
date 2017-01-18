@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="address">Adres</string>
+    <string name="description_content">Iedereen vanaf 16 jaar kan terecht bij Leeuwenborgh, een Regionaal Opleidingen Centrum (ROC) voor middelbaar beroepsonderwijs, beroepsopleidingen, om-, bij- of nascholingsonderwijs en bedrijfstrainingen.   Leeuwenborgh biedt veel verschillende opleidingen aan, op allerlei niveau’s en voor verschillende doelgroepen. De opleidingen worden gegeven op onze locaties in Maastricht en in Sittard of in de praktijk, bij leerwerkbedrijven of bij bedrijven die kiezen voor een bedrijfstraining. Mogelijkheden te over.</string>
+    <string name="description_title">Beschrijving:</string>
+    <string name="phone">Telefoon</string>
+    <string name="post_code">Postcode</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Text sizes-->
+    <dimen name="title_text_size">24sp</dimen>
+    <dimen name="description_content_text_size">20sp</dimen>
+    <dimen name="city_names_text_size">20sp</dimen>
+    <dimen name="website_text_size">20sp</dimen>
+    <dimen name="contact_Info_title_text_size">20sp</dimen>
+    <dimen name="contact_Info_details_text_size">20sp</dimen>
+
+    <!--This value for the most of the text( Titles,Description text and contact information-->
+    <dimen name="margin_left_and_start_">12dp</dimen>
+    <dimen name="margin_top">8dp</dimen>
+    <dimen name="margin_bottom">8dp</dimen>
+
+    <!--Margin dimensions for the LOGO picture -->
+    <dimen name="logo_margin_top">4dp</dimen>
+    <dimen name="logo_margin_bottom">16dp</dimen>
+    <dimen name="logo_layout_width">250dp</dimen>
+
+    <!--Separator dimensions-->
+    <dimen name="separator_layout_height">1dp</dimen>
+
+    <!--Website dimensions-->
+    <dimen name="website_marginTop">32dp</dimen>
+
+</resources>

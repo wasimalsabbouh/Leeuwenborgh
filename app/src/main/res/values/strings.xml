@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name" translatable="false">Leeuwenborgh</string>
+
+    <!-- General use-->
+    <string name="address">Address</string>
+    <string name="post_code">Post Code</string>
+    <string name="phone">Phone</string>
+    <string name="fax" translatable="false">Fax</string>
+    <string name="phone_details" translatable="false">: 088-0015000</string>
+    <string name="fax_details" translatable="false">: 088-0015111</string>
+    <string name="description_title">Description:</string>
+    <string name="website" translatable="false">www.leeuwenborgh.nl</string>
+    <string name="contact_details" translatable="false">Contact Details:</string>
+
+    <!-- Description-->
+    <string name="description_content">Anyone over 16 years can contact Leeuwenborgh, a Regional Training Centre (ROC) for secondary vocational education, training, turnover, continuing education and corporate training.\n
+    Leeuwenborgh offers many different courses, at all levels and for different audiences. The courses are held at our locations in Maastricht and Sittard, or in practice, by training companies or in companies that opt for business training. Opportunities abound.
+    </string>
+
+    <!-- Maastricht school-->
+    <string name="city" translatable="false">Maastricht</string>
+    <string name="address_details" translatable="false">: Sibemaweg 20</string>
+    <string name="post_code_details" translatable="false">: ​​6224 DC</string>
+
+    <!-- Maastricht-Airport school-->
+    <string name="city2" translatable="false">Maastricht - Airport </string>
+    <string name="address_details2" translatable="false">: Horsterweg 13</string>
+    <string name="post_code_details2" translatable="false">: 6199 AC</string>
+
+    <!-- Sittard school-->
+    <string name="city3" translatable="false">Sittard</string>
+    <string name="address_details3" translatable="false">: Arendstraat 12</string>
+    <string name="post_code_details3" translatable="false">: 6135 KT</string>
+
+    <!--Content descriptions-->
+    <string name="leeuwenborgh_photo_description" translatable="false">JPG picture for the school building in Maastricht!</string>
+    <string name="leeuwenborgh_logo_description" translatable="false">PNG picture for the school Logo</string>
+    <string name="footer_description" translatable="false">JPG picture for the footer</string>
+
+</resources>

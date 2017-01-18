@@ -1,0 +1,55 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- The contact information details style. -->
+    <style name="ContactInfo" >
+        <item name="android:textSize">@dimen/contact_Info_details_text_size</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <!-- The contact information tile style. -->
+    <style name="ContactInfoTitles">
+        <item name="android:textColor">@color/whiteColor</item>
+        <item name="android:textSize">@dimen/contact_Info_title_text_size</item>
+    </style>
+
+    <!-- The main title name for each section -->
+    <style name="Title" >
+        <item name="android:textColor">@color/whiteColor</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/title_text_size</item>
+    </style>
+
+    <!-- The description text of the school -->
+    <style name="DescriptionContent" >
+        <item name="android:textSize">@dimen/description_content_text_size</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+
+    <!-- The separator View style -->
+    <style name="SeparatorView" >
+        <item name="android:background">@color/separatorColor</item>
+    </style>
+
+    <!-- The city names style -->
+    <style name="CityName" >
+        <item name="android:textSize">@dimen/city_names_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/whiteColor</item>
+    </style>
+
+    <!-- Website style -->
+    <style name="Website" >
+        <item name="android:textSize">@dimen/website_text_size</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/whiteColor</item>
+    </style>
+
+</resources>
